@@ -5,4 +5,4 @@ public class task2 {
         int o = n % 10;
         System.out.println(x + o);
     }
-}ft7fuytfuy
+}
