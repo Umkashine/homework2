@@ -1,9 +1,8 @@
 public class task5 {
     public static void main(String[] args) {
-        int q=21;
-        int w=8;
-        double r=q/w;
+            int n = (int) Math.round(11.77);
 
-        System.out.println(result);
+
+            System.out.println(n);
     }
 }
